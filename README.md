@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-# Feedback3 - Public 
 =======
 # Feedback3 - English Language Learning 
 
@@ -16,4 +14,3 @@ To run this code, you will need access to
 
 (ii) [Pseudo labelled dataset](https://www.kaggle.com/datasets/rashmibanthia/fb3-pseudo-labels)
 
->>>>>>> Stashed changes
